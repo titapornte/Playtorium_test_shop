@@ -1,0 +1,13 @@
+{
+  "name": "javascript_for_mew",
+  "version": "1.0.0",
+  "main": "login.html",
+  "scripts": {
+    "start": "livePreview.defaultPreviewPath": "/fixed.amount/order.html"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,129 @@
+body {
+    padding: 10px;
+    background-color: lightgray;
+  }
+
+h1 {
+    text-align: center;
+}  
+
+img {
+    border-radius: 8px;
+    max-width: 30%;
+    height: auto;
+  }
+
+  .tshirt {
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    font-size: 22px;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    background-color: #fff;
+  }
+
+  .hoodie {
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    font-size: 22px;
+    justify-content: center;
+    border-style: solid;
+    background-color: #fff;
+  }
+
+  .bag {
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    font-size: 22px;
+    justify-content: center;
+    border-style: solid;
+    background-color: #fff;
+  }
+
+  .wallet {
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    font-size: 22px;
+    justify-content: center;
+    background-color: #fff;
+    border-style: solid;
+  }
+
+  .order {
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+    border-style: solid;
+  }
+
+  input[type=text] {
+    text-align: center;
+    width: 50%;
+    border-radius: 10px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    text-align: center;
+    font-size: 16px;
+}
+
+.wrapper {
+    height: 18px;
+    width: 100px;
+    margin-left: 46.5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+.wrapper span {
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 100;
+    cursor: pointer;
+}
+
+.wrapper span.num{
+    font-size: 15px;
+    
+}
+
+.logoutBtn {
+  float: right;
+  width: 35px;
+  height: 35px;
+  font-size: 25px;
+  text-align: center;
+  background-color: #fff;
+}
+
+button {
+  font-size: 22px;
+  background-color: #fff;
+  border-radius: 7px;
+  border-color: black;
+}
+
+.resetBtn {
+  font-size: 22px;
+  background-color: #ff0000;
+  border-radius: 7px;
+  color: #fff ;
+  border-color: black;
+}
+
+.orderBtn {
+  font-size: 22px;
+  background-color: #33B864;
+  border-radius: 7px;
+  color: #fff ;
+  border-color: black;
+}
